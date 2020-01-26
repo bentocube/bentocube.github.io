@@ -328,6 +328,11 @@ input[type=checkbox]:checked ~ label span:nth-child(3) {
  p {
    margin: 35px 50px;
  }
+
+ .download2 {
+  height: auto;
+  width: 250px;
+}
 }
 
 .visually-hidden {
