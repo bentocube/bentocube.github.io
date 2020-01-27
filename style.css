@@ -500,6 +500,10 @@ Media Queries
   height: auto;
  }
 
+ .left-one {
+  margin-left: 12%;
+ }
+
 }
 
 @media (min-width: 769px) {
