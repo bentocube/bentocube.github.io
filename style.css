@@ -504,6 +504,10 @@ Media Queries
   margin-left: 12%;
  }
 
+ .article {
+   padding: 0px;
+ }
+
 }
 
 @media (min-width: 769px) {
