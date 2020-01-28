@@ -356,7 +356,7 @@ article {
 }
 
 article h1 {
-   font-weight: 400;
+   font-weight: 600;
 }
 
 article p {
@@ -504,8 +504,8 @@ Media Queries
   margin-left: 12%;
  }
 
- .article {
-   padding: 0px;
+ article {
+   padding-bottom: 0px;
  }
 
 }
